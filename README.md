@@ -1,3 +1,5 @@
+![Vishwa Mehta — Business friction. Useful solutions.](assets/portfolio-banner.svg)
+
 <div align="center">
 
 # Vishwa Mehta
